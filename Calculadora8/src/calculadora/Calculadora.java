@@ -4,7 +4,9 @@ public class Calculadora {
 	private int num1;
 	private int num2;
 
+	
 	public Calculadora(int a, int b) {
+		System.out.println("Hola");
 		num1 = a;
 		num2 = b;
 	}
