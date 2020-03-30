@@ -31,6 +31,7 @@ public class Calculadora {
 		return resul;
 	}
 	
+	//Metodo elaborado por Adrian
 	public double elevaXaN(double x, double n) {
 		
 		double resultado = Math.pow(x, n);
