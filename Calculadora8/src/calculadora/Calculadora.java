@@ -31,7 +31,7 @@ public class Calculadora {
 		return resul;
 	}
 	
-	//El método raizNdeX, que calculará la raíz enésima de X.
+	//El método raizNdeX, que calculará la raíz enésima de X por Gaby.
 	public double raizNdeX(int x ) {
 		double resultado=Math.pow(x, 10);
 		return resultado;
