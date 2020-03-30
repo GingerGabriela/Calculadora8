@@ -31,9 +31,11 @@ public class Calculadora {
 		return resul;
 	}
 	
-	//El método raizNdeX, que calculará la raíz enésima de X.
-	
-	
-	
+	public double elevaXaN(double x, double n) {
+		
+		double resultado = Math.pow(x, n);
+		
+		return resultado;
+	}
 	
 }
